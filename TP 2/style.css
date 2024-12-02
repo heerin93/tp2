@@ -1,0 +1,61 @@
+body {
+    background-image: radial-gradiant(#CCDAE0, #EDF2F4);
+    /*background-image: radial-gradient(blue, pink);*/
+}
+
+header {
+    text-align: center;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 80px;
+    color : #EF233C ;
+    font-family: impact;
+}
+
+h3 {
+    color: #2B2D42;
+    font-size : 50px;
+    font-weight: bold;
+    text-decoration: underline dotted;
+}
+
+#section1 {
+    border : solid 1px;
+}
+
+#section2 {
+    border : solid 1px;
+}
+
+#section3 {
+    border : solid 1px;
+}
+
+.image {
+    text-align : center;
+}
+
+section img {
+    border : solid #8D99AE 2px;
+}
+
+footer {
+    text-align: right;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    color :#D90429;
+}
+a:hover {
+    color: #2B2D42;
+}
+
+.asterisk {
+    color: red;
+}
